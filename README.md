@@ -1,4 +1,4 @@
 Learning programming and building projects every day.
 
 Currently learning:
-• Java • React • AWS • N8N • Python
+• Java • React • AWS • OpenClaw • Python • Docker • System Desing
